@@ -1,0 +1,1 @@
+Hello, testing Git newly created file under this repo !! :)
